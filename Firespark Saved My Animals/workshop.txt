@@ -1,0 +1,6 @@
+version=1
+id=3826482711
+title=Firespark Saved My Animals
+description=Stops your animals from dying from being unloaded for long periods of time.
+tags=Build 42;Animals;Balance;Farming;Multiplayer
+visibility=public
